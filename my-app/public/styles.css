@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Karla",sans-serif;
+
+
+    margin: 0;
+}
+
+.Nav{
+    display: flex;
+    align-items:center;
+    background: #17232B;
+    color: white;
+    padding: 5px;
+}
+.Nav--title{
+padding-left: 13%;
+height: 22px;
+font-family: 'Jost*';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+
+}
+.Nav-s{
+    display:flex;
+    position: absolute;
+width: 57px;
+height: 32px;
+left: 439px;
+top: 10px;
+
+font-family: 'Jost*';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 32px;
